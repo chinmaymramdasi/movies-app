@@ -1,20 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-<<<<<<< Updated upstream
-import App from './App';
-=======
-import Header from './common/header/Header';
->>>>>>> Stashed changes
+//import Header from './common/header/Header';
+import Home from './screens/home/Home';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-<<<<<<< Updated upstream
-    <App />
-=======
-        <Header/>
->>>>>>> Stashed changes
+        <Home/>
   </React.StrictMode>,
   document.getElementById('root')
 );
