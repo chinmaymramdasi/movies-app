@@ -1,0 +1,13 @@
+.heading-container
+{
+    background-color: #222;
+    height: 36px;
+    margin: 8px 32px 8px 16px;
+}
+
+.logo
+{
+    background-color: #ff7f7f;
+    height: 35px;
+    animation: 8s linear;
+}
